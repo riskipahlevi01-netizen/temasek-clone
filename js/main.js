@@ -32,8 +32,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   // await loadComponent("header", `${basePath}/components/header.html`);
   // await loadComponent("footer", `${basePath}/components/footer.html`);
 
-
-
 });
 
 
